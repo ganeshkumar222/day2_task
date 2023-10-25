@@ -1,0 +1,1 @@
+This file contains a brefing about window and document of javascript and its key differences.

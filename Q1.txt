@@ -1,0 +1,10 @@
+Window :
+Window is the First thing that gets loaded in the browser. It is the global element for all the objects. The properties related to the window are stored in the window object.
+Document:
+The document contains all the contents that are displayed inside the browser.It is an object inside the window.
+
+Differences:
+1)Document is the content which is loaded inside the browser whereas window is the screen in which you are visualising the content
+2)properties of the document are stored in the document's object likewise properties of the window are stored in the windows object.
+3)document is the root element of the Dom whereas window is the global element for all objects
+4)doument properties can be accessed using document followed by dot operator whereas windows properties can be accessed by window and dot operator.
